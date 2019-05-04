@@ -1,0 +1,19 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="52px" height="52px">
+<path fill-rule="evenodd"  fill="rgb(65, 65, 65)"
+ d="M26.000,0.000 C40.359,0.000 52.000,11.641 52.000,26.001 C52.000,40.360 40.359,52.000 26.000,52.000 C11.641,52.000 0.000,40.360 0.000,26.001 C0.000,11.641 11.641,0.000 26.000,0.000 Z"/>
+	<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="16px" x="15px" y="22.957px">
+		<tspan font-size="16px" font-family="Bebas Neue" fill="#E9E9E9">l</tspan>
+	</text>
+	<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="16px" x="31px" y="23.957px">
+		<tspan font-size="16px" font-family="Bebas Neue" fill="#E9E9E9">o</tspan>
+	</text>
+	<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="16px" x="15px" y="40.957px">
+		<tspan font-size="16px" font-family="Bebas Neue" fill="#E9E9E9">&#48;</tspan>
+	</text>
+	<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="16px" x="30px" y="40.062px">
+		<tspan font-size="16px" font-family="Bebas Neue" fill="#E9E9E9">m</tspan>
+	</text>
+</svg>

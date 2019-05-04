@@ -1,0 +1,41 @@
+@keyframes process-circle {
+	0%, 30% {
+		width: 0;
+		height: 0;
+		left: 50%;
+		top: 50%;
+		border-width: 0px;
+	}
+
+	15% {
+		top: -2px;
+		right: -2px;
+		bottom: -2px;
+		left: -2px;
+		width: calc(100% + 4);
+		height: calc(100% + 4);
+		border-width: 45px;
+	}
+}
+
+@keyframes process-logo {
+	0%, 30% {
+		top: auto;
+		bottom: 5px;
+	}
+
+	15%,20% {
+		top: 6px;
+		bottom: auto;
+	}
+}
+
+@keyframes process-logo-bg {
+	0%, 30% {
+		background-color: transparent;
+	}
+
+	20% {
+		background-color: #1abb9c;
+	}
+}
